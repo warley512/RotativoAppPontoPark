@@ -1,0 +1,10 @@
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\RotativoApp.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\Mono.Android.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\mscorlib.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\Newtonsoft.Json.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\System.Core.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\System.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\System.Net.Http.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\System.Xml.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Release\android\assets\System.ServiceModel.Internals.dll

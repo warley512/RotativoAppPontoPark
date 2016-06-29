@@ -1,0 +1,64 @@
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\bin\Debug\RotativoApp.dll
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\bin\Debug\RotativoApp.pdb
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\bin\Debug\RotativoApp.RotativoApp.apk
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\bin\Debug\RotativoApp.RotativoApp-Signed.apk
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\RotativoApp.dll
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\RotativoApp.pdb
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\android\bin\RotativoApp.RotativoApp.apk
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\res\layout\main.xml
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\res\values\strings.xml
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\res\drawable\icon.png
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\R.cs.flag
+c:\users\fabiano.telesforo\documents\visual studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\uploadflags.txt
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\RotativoApp.csprojResolveAssemblyReference.cache
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\res\layout\comprar.xml
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\res\layout\consultar.xml
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\res\layout\renovar.xml
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\obj\Debug\RotativoApp.dll.mdb
+C:\Users\fabiano.telesforo\Documents\Visual Studio 2013\Projects\RotativoApp\RotativoApp\bin\Debug\RotativoApp.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\RotativoApp.dll
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\RotativoApp.pdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\RotativoApp.RotativoApp.apk
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\RotativoApp.RotativoApp-Signed.apk
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\RotativoApp.csprojResolveAssemblyReference.cache
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\RotativoApp.dll
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\RotativoApp.pdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\bin\RotativoApp.RotativoApp.apk
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\res\layout\comprar.xml
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\res\layout\consultar.xml
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\res\layout\renovar.xml
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\res\layout\main.xml
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\res\values\strings.xml
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\res\drawable\icon.png
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\R.cs.flag
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\uploadflags.txt
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\RotativoApp.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\Java.Interop.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\Mono.Android.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\mscorlib.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\System.Core.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\System.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\System.Xml.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\RotativoApp.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\System.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\obj\Debug\RotativoApp.dll.mdb
+C:\Users\warley\Documents\Projetos\RotativoApp\RotativoApp\bin\Debug\RotativoApp.dll.mdb
