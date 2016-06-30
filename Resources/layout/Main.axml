@@ -5,19 +5,35 @@
     android:layout_height="fill_parent"
     android:minWidth="25px"
     android:minHeight="25px">
+    <ImageView
+        android:src="@drawable/logo2"
+        android:layout_width="208.0dp"
+        android:layout_height="180.0dp"
+        android:id="@+id/imageView1"
+        android:layout_marginBottom="44.0dp"
+        android:layout_gravity="center" />
     <Button
         android:text="Compra de Rotativos"
-        android:layout_width="match_parent"
+        android:layout_width="239.0dp"
         android:layout_height="wrap_content"
-        android:id="@+id/btnCompraRotativo" />
+        android:id="@+id/btnCompraRotativo"
+        android:background="#60A8C2"
+        android:layout_gravity="center"
+        android:layout_marginBottom="17.5dp" />
     <Button
         android:text="Renovação de Rotativos"
-        android:layout_width="match_parent"
+        android:layout_width="239.0dp"
         android:layout_height="wrap_content"
-        android:id="@+id/btnRenovaRotativo" />
+        android:id="@+id/btnRenovaRotativo"
+        android:background="#60A8C2"
+        android:layout_gravity="center"
+        android:layout_marginBottom="17.5dp"/>
     <Button
         android:text="Consulta por Placa"
-        android:layout_width="match_parent"
+        android:layout_width="239.0dp"
         android:layout_height="wrap_content"
-        android:id="@+id/btnConsultaPlaca" />
+        android:id="@+id/btnConsultaPlaca"
+        android:background="#60A8C2"
+        android:layout_gravity="center"
+        android:layout_marginBottom="17.5dp"/>
 </LinearLayout>

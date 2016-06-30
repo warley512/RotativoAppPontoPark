@@ -66,6 +66,15 @@ namespace RotativoApp
 			// aapt resource value: 0x7f020000
 			public const int Icon = 2130837504;
 			
+			// aapt resource value: 0x7f020001
+			public const int logo1 = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int logo2 = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int logo3 = 2130837507;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -79,26 +88,29 @@ namespace RotativoApp
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060007
-			public const int btnCompraRotativo = 2131099655;
+			// aapt resource value: 0x7f060008
+			public const int btnCompraRotativo = 2131099656;
 			
 			// aapt resource value: 0x7f060004
 			public const int btnComprar = 2131099652;
 			
-			// aapt resource value: 0x7f060009
-			public const int btnConsultaPlaca = 2131099657;
+			// aapt resource value: 0x7f06000a
+			public const int btnConsultaPlaca = 2131099658;
 			
 			// aapt resource value: 0x7f060006
 			public const int btnConsultar = 2131099654;
 			
-			// aapt resource value: 0x7f060008
-			public const int btnRenovaRotativo = 2131099656;
+			// aapt resource value: 0x7f060009
+			public const int btnRenovaRotativo = 2131099657;
 			
-			// aapt resource value: 0x7f06000a
-			public const int btnRenovar = 2131099658;
+			// aapt resource value: 0x7f06000b
+			public const int btnRenovar = 2131099659;
 			
 			// aapt resource value: 0x7f060001
 			public const int editTextPlaca = 2131099649;
+			
+			// aapt resource value: 0x7f060007
+			public const int imageView1 = 2131099655;
 			
 			// aapt resource value: 0x7f060003
 			public const int spinnerTempo = 2131099651;
