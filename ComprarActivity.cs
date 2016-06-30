@@ -15,7 +15,7 @@ using System.Net.Http;
 
 namespace RotativoApp
 {
-    //comprar 
+    //comprar teste
     [Activity(Label = "Comprar Rotativo")]
     public class ComprarActivity : Activity
     {
