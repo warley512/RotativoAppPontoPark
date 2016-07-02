@@ -3,24 +3,43 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <ImageView
+        android:src="@drawable/logo2"
+        android:layout_width="168.0dp"
+        android:layout_height="180.0dp"
+        android:id="@+id/imageView1"
+        android:layout_marginBottom="20.0dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp" />
     <TextView
         android:text="Placa do veículo:"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:layout_width="match_parent"
+        android:layout_width="261.5dp"
         android:layout_height="wrap_content"
-        android:id="@+id/textViewPlaca" />
+        android:id="@+id/textViewPlaca"
+        android:layout_marginTop="7.5dp"
+        android:layout_gravity="center" />
     <EditText
-        android:layout_width="match_parent"
+        android:layout_width="261.5dp"
         android:layout_height="wrap_content"
-        android:id="@+id/editTextPlaca" />
+        android:id="@+id/editTextPlaca"
+        android:layout_marginBottom="25.0dp"
+        android:layout_gravity="center" />
     <Button
-        android:layout_width="match_parent"
+        android:layout_width="261.5dp"
         android:layout_height="wrap_content"
         android:id="@+id/btnConsultar"
-        android:text="Consultar" />
+        android:background="#60A8C2"
+        android:layout_gravity="center"
+        android:text="Consultar"
+        android:textColor="@android:color/background_light"
+        android:layout_marginBottom="25.0dp" />
     <TextView
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:layout_width="match_parent"
+        android:layout_width="261.5dp"
         android:layout_height="wrap_content"
-        android:id="@+id/textViewResultado" />
+        android:id="@+id/textViewResultado"
+        android:layout_marginTop="7.5dp"
+        android:layout_gravity="center"
+        android:textSize="@android:dimen/app_icon_size" />
 </LinearLayout>

@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace RotativoApp
 {
-    [Activity(Label = "RotativoApp", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "RotativoApp", MainLauncher = true, Icon = "@drawable/icon")]//, Theme = "Material Light"
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)

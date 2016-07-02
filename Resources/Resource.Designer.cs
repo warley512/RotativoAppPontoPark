@@ -91,14 +91,14 @@ namespace RotativoApp
 			// aapt resource value: 0x7f060008
 			public const int btnCompraRotativo = 2131099656;
 			
-			// aapt resource value: 0x7f060004
-			public const int btnComprar = 2131099652;
+			// aapt resource value: 0x7f060005
+			public const int btnComprar = 2131099653;
 			
 			// aapt resource value: 0x7f06000a
 			public const int btnConsultaPlaca = 2131099658;
 			
-			// aapt resource value: 0x7f060006
-			public const int btnConsultar = 2131099654;
+			// aapt resource value: 0x7f060007
+			public const int btnConsultar = 2131099655;
 			
 			// aapt resource value: 0x7f060009
 			public const int btnRenovaRotativo = 2131099657;
@@ -106,23 +106,23 @@ namespace RotativoApp
 			// aapt resource value: 0x7f06000b
 			public const int btnRenovar = 2131099659;
 			
-			// aapt resource value: 0x7f060001
-			public const int editTextPlaca = 2131099649;
-			
-			// aapt resource value: 0x7f060007
-			public const int imageView1 = 2131099655;
-			
-			// aapt resource value: 0x7f060003
-			public const int spinnerTempo = 2131099651;
+			// aapt resource value: 0x7f060002
+			public const int editTextPlaca = 2131099650;
 			
 			// aapt resource value: 0x7f060000
-			public const int textViewPlaca = 2131099648;
+			public const int imageView1 = 2131099648;
 			
-			// aapt resource value: 0x7f060005
-			public const int textViewResultado = 2131099653;
+			// aapt resource value: 0x7f060004
+			public const int spinnerTempo = 2131099652;
 			
-			// aapt resource value: 0x7f060002
-			public const int textViewTempo = 2131099650;
+			// aapt resource value: 0x7f060001
+			public const int textViewPlaca = 2131099649;
+			
+			// aapt resource value: 0x7f060006
+			public const int textViewResultado = 2131099654;
+			
+			// aapt resource value: 0x7f060003
+			public const int textViewTempo = 2131099651;
 			
 			static Id()
 			{
